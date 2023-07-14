@@ -1,0 +1,8 @@
+D:\A6\A6\bin\Debug\A6.exe.config
+D:\A6\A6\bin\Debug\A6.exe
+D:\A6\A6\bin\Debug\A6.pdb
+D:\A6\A6\obj\Debug\A6.csproj.AssemblyReference.cache
+D:\A6\A6\obj\Debug\A6.csproj.SuggestedBindingRedirects.cache
+D:\A6\A6\obj\Debug\A6.csproj.CoreCompileInputs.cache
+D:\A6\A6\obj\Debug\A6.exe
+D:\A6\A6\obj\Debug\A6.pdb
