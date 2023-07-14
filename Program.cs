@@ -61,6 +61,7 @@ namespace assignment6
             }
             double totalAverage = totalSum / totalLength;
             Console.WriteLine(totalAverage);
+            Console.ReadKey();
         }
     }
 }
